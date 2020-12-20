@@ -1,2 +1,2 @@
 # NotePad
-This is an AndroidStudio rebuild of google SDK sample NotePad
+![image]https://github.com/Tracycccccc/NotePad-master/blob/master/img-folder/login.png
