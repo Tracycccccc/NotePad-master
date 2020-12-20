@@ -6,7 +6,7 @@
 ![image](https://github.com/Tracycccccc/NotePad-master/blob/master/img-folder/setpassword.png)
 ![image](https://github.com/Tracycccccc/NotePad-master/blob/master/img-folder/setpasswordsuccess.png)
 
-##一：时间戳的添加
+## 一：时间戳的添加
 **1.在project添加修改时间**
 
 ```
