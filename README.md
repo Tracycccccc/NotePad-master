@@ -39,7 +39,7 @@ ContentValues values = new ContentValues();
 ```
 
 
-##二：搜索功能的实现
+## 二：搜索功能的实现
 
 **1.添加搜索框按钮，我把他安排在菜单栏上，在list_options_menu.xml中添加search选项**
 ```
@@ -153,7 +153,7 @@ public boolean onQueryTextChange(String string) {
         }
     }
 ```
-##三：登录功能和设置密码
+## 三：登录功能和设置密码
 **1.写login类
 这里也很简单，无非是做一个登录界面，然后设置初始账号密码123，设置按钮监听，比对输入(我做的很简单)**
 ```
